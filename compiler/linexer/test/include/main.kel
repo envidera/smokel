@@ -1,0 +1,4 @@
+include
+    test/include/comment.kel
+body
+    font: arial

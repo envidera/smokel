@@ -1,0 +1,7 @@
+.vscode/*
+#-------
+# Exclude everything in the tmp folder from being included in git
+tmp/*
+# Except this file
+!tmp/readme.md
+#-------

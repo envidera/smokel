@@ -1,0 +1,3 @@
+
+linexer > refactored
+- added interfaceAdapter to convert entity line data into exported Line data to be used in other layers.
